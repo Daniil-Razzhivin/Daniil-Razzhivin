@@ -1,4 +1,4 @@
-## Hi!🖖, i am Daniil Razzhivin - Penetration Tester 
+## Hi🖖, I am Daniil Razzhivin - Penetration Tester 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <br>
