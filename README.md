@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🚀 Daniil Razzhivin – Penetration Tester
 
-<!--
-**Daniil-Razzhivin/Daniil-Razzhivin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourname)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111827?style=flat&logo=Hack%20The%20Box)](https://app.hackthebox.com/profile/123456)
 
-Here are some ideas to get you started:
+## 🔥 Мои проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡 CTF-Writeups
+Подробные разборы задач с HackTheBox, picoCTF и других CTF:
+- [HTB: Pandora (Web + Pwn)](./HackTheBox/Pandora)
+- [picoCTF: Buffer Overflow](./picoCTF/Buffer-Overflow)
+
+### 🛠 Инструменты
+- [Скрипт для автоматизации SQLi](./Tools/sqli_scanner.py)
+- [Шпаргалки по реверсу](./Tools/cheatsheets/reverse.md)
+
+## 📊 Статистика
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=radical)
