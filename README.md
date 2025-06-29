@@ -10,6 +10,10 @@
 - [HTB: Pandora (Web + Pwn)](./HackTheBox/Pandora)
 - [picoCTF: Buffer Overflow](./picoCTF/Buffer-Overflow)
 
+### Badges
+[![OSCP](https://img.shields.io/badge/OSCP-CC0000?style=flat)](https://www.offensive-security.com/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat)](https://tryhackme.com/p/yourname)
+
 ### 🛠 Инструменты
 - [Скрипт для автоматизации SQLi](./Tools/sqli_scanner.py)
 - [Шпаргалки по реверсу](./Tools/cheatsheets/reverse.md)
