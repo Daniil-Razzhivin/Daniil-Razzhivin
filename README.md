@@ -5,6 +5,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=radical)
 
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/z3r0day)
-
-[![TryHackMe Rank](https://img.shields.io/badge/TryHackMe-[top 5%]-[COLOR]?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/z3r0day)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=brightgreen)](https://tryhackme.com/p/z3r0day)
