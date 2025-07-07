@@ -1,7 +1,6 @@
 ## Hi🖖, I am Daniil Razzhivin - Penetration Tester 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2770066" style='border:none;'></iframe>
 <br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=radical)
