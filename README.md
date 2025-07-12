@@ -4,4 +4,4 @@
 <br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=radical)
-<img src="https://tryhackme-badges.s3.amazonaws.com/z3r0day.png" alt="https://tryhackme.com/p/z3r0day" />
+<a href="https://tryhackme.com/p/z3r0day" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/z3r0day.png" alt="https://tryhackme.com/p/z3r0day" /></a>
